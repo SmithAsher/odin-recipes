@@ -27,3 +27,20 @@ img {
     border-radius: 5%;
 }
 
+.container {
+    padding: 16px;
+    border: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    gap: 8px;
+    border: 1px solid black;
+    background: mintcream;
+}
+
+.item {
+    background: white;
+    padding: 4px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
